@@ -2,7 +2,7 @@
 
 FOGBoard is a 3-key Macropad that is based off of the SEEED XIAO RP2040. It's firmware is based off of the QMK Firmware & C Language.
 
-## It serves as a shortcut tool meant to be used for reimaging computers - Making it easier to perform tasks with the FOG Server.
+It serves as a shortcut tool meant to be used for reimaging computers - Making it easier to perform tasks with the FOG Server.
 
 ## Features:
 
