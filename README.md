@@ -45,6 +45,15 @@ All of ther firmware was made through a combination of JSON & C.
 
 I will be adding more into the future! Stay tuned!
 
+## Bill Of Materials (BOM)
+These are all of the parts that you will need to make the FOGBoard!
+- 3x Cherry MX Switches
+- 3x DSA Keycaps
+- 4x M3x16mm SHCS Bolts
+- 1x XIAO RP2040
+- 1x Case (2 Printed Parts) - Find the STEP File, top.step & bottom.step under /production
+- 1x Custom PCB - Find gerbers.zip under /production
+
 ## Extra notes:
 
 Not sure what to put here, but I wanted to thank Hack Club, specifically Alex Ren for organizing the HackPad! Excited to see what is going to be in the future!
